@@ -230,6 +230,9 @@ Below is my personal syllabus breakdown with links, notes, and references.
 
 # 🗂 Repository Structure  
 
+
+```text
+
 📦 namaste-react-learning
 ┣ 📂 Episode-01-Inception
 ┣ 📂 Episode-02-IgnitingOurApp
@@ -247,6 +250,7 @@ Below is my personal syllabus breakdown with links, notes, and references.
 ┣ 📂 NetflixGPT-Project
 ┗ 📜 README.md
 
+```
 
 ---
 
