@@ -1,7 +1,6 @@
 
-const heading = document.createElement("h1");
-heading.innerHTML = "Hello world from Javascript!";
+const heading = React.createElement("h1", {}, "hello from react code");
 
-const root = document.getElementById("root");
-root.appendChild(heading);
+const root = ReactDOM.createRoot(document.getElementById("root"));
 
+root.render(heading);
