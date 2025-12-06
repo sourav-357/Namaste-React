@@ -19,7 +19,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 // root.render(parent);
 
 
-// Putting two or more child under one child elements *************************************************************** //
+// Putting two or more child under one child elements ************************************************************** //
 
 // const heading = React.createElement("div", { id: "parent" }, 
 //     React.createElement( "div", { id: "child" }, [
