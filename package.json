@@ -16,5 +16,8 @@
   "main": "App.js",
   "scripts": {
     "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.3"
   }
 }
