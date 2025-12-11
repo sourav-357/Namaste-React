@@ -1,0 +1,20 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is the namaste react course ",
+  "homepage": "https://github.com/sourav-357/namaste-react#readme",
+  "bugs": {
+    "url": "https://github.com/sourav-357/namaste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourav-357/namaste-react.git"
+  },
+  "license": "ISC",
+  "author": "Sourav Kumar",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
